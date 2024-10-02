@@ -26,7 +26,7 @@ Validações esperadas:
   - não pode ser 0
 - yearOfBirth
   - é obrigatório 
-  - deve ser maior do que do que 100 anos a contar da data de hoje
+  - deve ser menor  do que do que 110 anos a contar da data de hoje
   - não pode ser igual ao ano atual
   - deve corresponder ao ano de nascimento calculando o ano atual menos a ideade informada
 - email:
